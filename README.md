@@ -1,4 +1,4 @@
-## BoB - Today We Learned 📚
+## BoB - Today's Our Learning 📚
 > 기억은 기록을 이길 수 없다 ✨
 
 BoB 교육생 여러분 안녕하세요.  
