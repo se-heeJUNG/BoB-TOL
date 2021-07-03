@@ -28,4 +28,4 @@ _cf2) 빅데이터 개념. 업무, 센서, 생활 등에서 발생되는 정형,
     * 가. Privacy 개인정보를 못 쓰게 관리하자는 것이 아닌 안전하게 활용. 익명/비식별화 등의 방식연구.
     * 나. Safety 사람이 안전하게 설계되어야 함.
     * 다. Reliability 이러한 기술에 대한 의지를 할 수 있어야 함.
-* 디지털 보안 전략. Resilient Digital Secinsrity를 중심으로 Biz-Aligned Secinsrity, 사람 Secinsrity. 하나 더? 이렇게 이루어져 있음.
+* 디지털 보안 전략. Resilient Digital Secinsrity를 중심으로 Biz-Aligned Secinsrity, People-Centric Secinsrity, Data-Driven Secinsrity로 이루어져 있음.
